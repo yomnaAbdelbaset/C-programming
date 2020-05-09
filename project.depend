@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1588653133 source:e:\acm\codeblocks\project\addcustomer.c
+	"declarations.c"
+
+1588653133 e:\acm\codeblocks\project\declarations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+
+1588653132 source:e:\acm\codeblocks\project\addfirstcustomer.c
+	"declarations.c"
+
+1588653133 source:e:\acm\codeblocks\project\declarations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+
+1588653132 source:e:\acm\codeblocks\project\displaycustomers.c
+	"declarations.c"
+
+1588653132 source:e:\acm\codeblocks\project\findcustomer.c
+	"declarations.c"
+
+1588653133 source:e:\acm\codeblocks\project\menu.c
+	"declarations.c"
+
+1588653132 source:e:\acm\codeblocks\project\removefirstcustomer.c
+	"declarations.c"
+
+1588653132 source:e:\acm\codeblocks\project\removelastcustomer.c
+	"declarations.c"
+
